@@ -1,0 +1,13 @@
+/home/simcha605/webdev/csharp/cards/Cards/bin/Debug/netcoreapp3.1/Cards
+/home/simcha605/webdev/csharp/cards/Cards/bin/Debug/netcoreapp3.1/Cards.deps.json
+/home/simcha605/webdev/csharp/cards/Cards/bin/Debug/netcoreapp3.1/Cards.runtimeconfig.json
+/home/simcha605/webdev/csharp/cards/Cards/bin/Debug/netcoreapp3.1/Cards.runtimeconfig.dev.json
+/home/simcha605/webdev/csharp/cards/Cards/bin/Debug/netcoreapp3.1/Cards.dll
+/home/simcha605/webdev/csharp/cards/Cards/bin/Debug/netcoreapp3.1/Cards.pdb
+/home/simcha605/webdev/csharp/cards/Cards/obj/Debug/netcoreapp3.1/Cards.csprojAssemblyReference.cache
+/home/simcha605/webdev/csharp/cards/Cards/obj/Debug/netcoreapp3.1/Cards.AssemblyInfoInputs.cache
+/home/simcha605/webdev/csharp/cards/Cards/obj/Debug/netcoreapp3.1/Cards.AssemblyInfo.cs
+/home/simcha605/webdev/csharp/cards/Cards/obj/Debug/netcoreapp3.1/Cards.csproj.CoreCompileInputs.cache
+/home/simcha605/webdev/csharp/cards/Cards/obj/Debug/netcoreapp3.1/Cards.dll
+/home/simcha605/webdev/csharp/cards/Cards/obj/Debug/netcoreapp3.1/Cards.pdb
+/home/simcha605/webdev/csharp/cards/Cards/obj/Debug/netcoreapp3.1/Cards.genruntimeconfig.cache

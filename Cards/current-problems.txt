@@ -1,0 +1,33 @@
+current problems
+
+if both players have the same hand we have know way of knowing which is higher (ie. a pair of queens is equal
+ to a pair of twos) FIXED MOSTLY
+
+i will fix this by setting the last value in the hand (hand[4]) to be the highest card 
+and in the event of a tie, we check the last value to see who won
+
+this works already for: a high card, a straight, A royal flush, A flush, and a straight flush (becuase
+ the cards are already ordered by rank)
+
+++++++++++++++++++++++++++++++++++++++
+i need to do this for:
+ a pair --> DONE BUT NEEDS REWORK
+ two pair
+ set --> DONE
+ fullhouse --> DONE
+ four of a kind --> DONE
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+ NEEDS TESTING
+ the DeclareWinner method in the Game class need rigorous testing with all possible two hand combos
+
+ i have solved all besides for a Two Pair
+
+ a minor problem with Pairs,
+ if both players hold the same pair, the game will return a tie withour checking the high card
+ need to fix this 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ POLISH
+ maybe add a better shuffle method for the Deck class?
+
